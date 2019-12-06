@@ -79,8 +79,8 @@ body nav .navbar-toggler .navbar-toggler-icon {
 .header_area .container .col-md-5 .avatar {
   -webkit-box-shadow: 8px 9px 13px #1a1a1a;
           box-shadow: 8px 9px 13px #1a1a1a;
-  width: 270px;
-  height: 270px;
+  width: auto;
+  height: 32vh;
   border-radius: 50%;
   display: inline-block;
   vertical-align: middle;
